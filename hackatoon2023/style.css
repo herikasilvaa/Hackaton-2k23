@@ -1,0 +1,251 @@
+*	{
+		padding: 0;
+		margin: 0;
+}
+body{
+	background-color: #DCDCDC;
+}
+#cabecalho {
+
+	background-color: #000000;
+	font-size: 24px;
+	margin-top:480px;
+}
+#cabecalho ul {
+
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#cabecalho ul li{
+
+	display:  inline;
+	margin-right: 135px;
+}
+#cabecalho ul li a{
+	padding: 2px 10px;
+	display: inline-block;
+	background-color: #000000;
+	color: #F0F8FF;
+	text-decoration: none;
+	margin-right:-50px; 
+	margin-left: 15px;
+	font-family: Copperplate Gothic;
+
+}
+#cabecalho ul li a:hover{
+
+	background-color: #DCDCDC;
+	color: #000000;
+	border-bottom: 3px solid #ff0000;
+}
+#Fita {
+
+	background-color:#cc0000;
+	font-size: 24px;
+	margin-top: -512px;
+
+}
+#Fita ul {
+
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#Fita ul li{
+
+	display:  inline;
+	margin-right: 135px;
+}
+#Fita ul li a{
+	padding: 2px 10px;
+	display: inline-block;
+	background-color:  #cc0000;
+	color: #F0F8FF;
+	text-decoration: none;
+	margin-right: 110px;
+	font-family: Copperplate Gothic;
+}
+#Fita ul li a:hover{
+
+	background-color: #DCDCDC;
+	color: #000000;
+	border-bottom: 3px solid #ff0000;
+}
+#texto{
+	margin-left: 35px;
+}#textoEtec{
+	margin-left: -40px;
+}#textoInsta{
+	margin-left: -10px;
+}
+#whatts{
+	width: 30px;
+	height: 30px;
+	position:absolute;
+	margin-left: 5px;
+}
+#email{
+	width: 32px;
+	height: 32px;
+	position:absolute;
+	margin-left: 450px;
+}#insta1{
+	width: 30px;
+	height: 30px;
+	position:absolute;
+	margin-left: 965px;
+}#insta2{
+	width: 30px;
+	height: 30px;
+	position:absolute;
+	margin-left: 1430px;
+}
+#Fita2 {
+
+	background-color: #cc0000;
+	font-size: 7px;
+	margin-top:417px;
+}
+#Fita2 ul {
+
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#Fita2 ul li{
+
+	display:  inline;
+	margin-right: 135px;
+}
+#Fita2 ul li a{
+	padding: 2px 10px;
+	display: inline-block;
+	background-color: #000000;
+	color: #F0F8FF;
+	text-decoration: none;
+}
+#Fita2 ul li a:hover{
+
+	background-color: #DCDCDC;
+	color: #000000;
+	border-bottom: 3px solid #ff0000;
+}
+#Fita2 img{
+    margin-left: 1400px;
+    height: 10vh;
+    width: 10vw;
+    margin-right: 1000px;
+    position: absolute;
+}
+#Fita3 {
+
+	background-color: black;
+	font-size: 365px;
+	margin-top:-425px;
+}
+#Fita3 ul {
+
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#Fita3 ul li{
+
+	display:  inline;
+	margin-right: 135px;
+}
+#Fita3 ul li a{
+	padding: 2px 10px;
+	display: inline-block;
+	background-color: #000000;
+	color: #F0F8FF;
+	text-decoration: none;
+}
+#Fita3 ul li a:hover{
+
+	background-color: #DCDCDC;
+	color: #000000;
+	border-bottom: 3px solid #ff0000;
+}
+#img1 {
+	width: 1500px;
+	height: 520px;
+	position:absolute;
+	margin-top: -85px;
+	margin-left:270px;
+}
+#img2{
+	width: 160px;
+	height: 80px;
+	position:absolute;
+	margin-top: 13px;
+
+}
+#img3{
+	width: 160px;
+	height: 80px;
+	position:absolute;
+	margin-top: 13px;
+	margin-left: 1700px;
+
+}
+#Fita4 {
+
+	background-color: #cc0000;
+	font-size: 6px;
+	margin-top:35px;
+}
+#Fita4 ul {
+
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#Fita4 ul li{
+
+	display:  inline;
+	margin-right: 135px;
+}
+#Fita4 ul li a{
+	padding: 2px 10px;
+	display: inline-block;
+	background-color: #000000;
+	color: #F0F8FF;
+	text-decoration: none;
+}
+#Fita4 ul li a:hover{
+
+	background-color: #DCDCDC;
+	color: #000000;
+	border-bottom: 3px solid #ff0000;
+}
+#Fita4 img{
+    margin-left: 1400px;
+    height: 10vh;
+    width: 10vw;
+    margin-right: 1000px;
+    position: absolute;
+}
+#QuadradoEventos {
+
+	background-color: white;
+	font-size: 365px;
+	margin-top:50px;
+	width:50vw;
+	height:100vh;
+	margin-left:450px;
+}
+#QuadradoEventos ul {
+
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+#QuadradoEventos ul li{
+
+	display:  inline;
+	margin-right: 135px;
+}
+
+
